@@ -1,0 +1,1 @@
+A geospatial analysis using geospatial data that is obtained using Overpass API on OpenStreetMap crowdsourced database. Analysis is done on several cities such as Central Jakarta, West Jakarta, and North Jakarta as those 3 has the highest population density across the nation based on the density data in 2023.
